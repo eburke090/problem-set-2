@@ -27,7 +27,6 @@ def barplot_fta_by_sex(pred_universe):
     plt.savefig('./data/part3_plots/barplot_fta_by_sex.png', bbox_inches='tight')
     plt.clf()
 
-
 # 3. Plot a histogram of age_at_arrest
 def histogram_age(pred_universe):
     sns.histplot(data=pred_universe,x ='age_at_arrest')

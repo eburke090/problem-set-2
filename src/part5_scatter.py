@@ -30,7 +30,6 @@ def scatter_prediction_by_charge(merged_df):
 print("\n The dots on the right of the plot are likely to represent people who a highly likely to have a felony and non felony rearrest"
       "Most of these are likely people with current felony charges")
 
-
 # 2. Create a scatterplot where the x-axis is prediction for felony rearrest and the y-axis is whether someone was actually rearrested.
 # 
 # In a print statement, answer the following question: Would you say based off of this plot if the model is calibrated or not?

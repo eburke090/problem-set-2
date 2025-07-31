@@ -16,7 +16,6 @@ def seaborn_settings():
     sns.set_theme()
     sns.set(rc={'figure.figsize':(6, 4)})
 
-
 def barplots(charge_counts, charge_counts_by_offense):
     '''
     Produces various types of bar plots using the given datasets
