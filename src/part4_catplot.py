@@ -5,7 +5,7 @@ PART 4: CATEGORICAL PLOTS
 - All plots should be output as PNG files to `data/part4_plots`
 '''
 
-##  UPDATE `part1_etl.py`  #
+##  UPDATE `part1_etl.py`  ##
 # 1. The charge_no column in arrest events tells us the charge degree and offense category for each arrest charge. 
 # An arrest can have multiple charges. We want to know if an arrest had at least one felony charge.
 # 

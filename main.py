@@ -28,6 +28,7 @@ def main():
     part2.histograms(pred_universe)
     part2.scatterplot(pred_universe)
 
+
     ##  PART 3: BAR PLOTS AND HISTOGRAMS  ##
 
     part3.create_p3_directory()
